@@ -1,6 +1,6 @@
 
-Me llamo Nicolás García, y soy residente de Chacabuco, Buenos Aires.
+My name is Nicolás García, and I am a resident of Chacabuco, Buenos Aires.
 
-💻 Actualmente estoy trabajando con JavaScript y PHP
+💻 I am currently working with JavaScript and PHP.
 
-✉️ gnicolasmati@gmail.com / https://www.linkedin.com/in/nicolasgrc/
+✉️ gnicolasmati@gmail.com / https://linkedin.com/in/nicolasgrc
