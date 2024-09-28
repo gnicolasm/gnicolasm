@@ -9,6 +9,6 @@
 
 **💻 I am currently working on a project for a group of DJs in which it is private.**
 <br>
-**Any contact with me can be via email or linkedin**
+**Any contact with me can be via Email or LinkedIn**
 
 </div>
