@@ -2,8 +2,8 @@
 
 **I recommend this track to kickstart your morning, click the image to listen.**
 
-<a href="https://open.spotify.com/intl-es/track/4VEzfo8GKXvW1f5oviqM1c?si=06b0336d898844ff">
-    <img src="https://i.scdn.co/image/ab67616d00001e02dab7fd894795d0f6d708324c" alt="Human Rights - Jimi Jules" width="300px">
+<a href="https://open.spotify.com/intl-es/track/1BJJbSX6muJVF2AK7uH1x4?si=adcbc37b2c6a43b1">
+    <img src="https://i.scdn.co/image/ab67616d0000b27317a013a00d0a33f3dd49974d" alt="New Track" width="300px">
 </a>
 
 </div>
