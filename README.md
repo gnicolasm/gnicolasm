@@ -8,5 +8,6 @@
 
 
 **💻 I am currently working on a project for a group of DJs in which it is private.**
+**Any contact with me can be via email or linkedin.**
 
 </div>
