@@ -3,6 +3,7 @@
 
   <a href="https://open.spotify.com/playlist/3foPurV4qm8jojJAGE9ze2?si=ea75995ff36f4c44" target="_blank">
     Click here to open Spotify
+    <br>
   </a>
   
   <br>
