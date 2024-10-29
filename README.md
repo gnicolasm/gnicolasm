@@ -4,6 +4,7 @@
   <a href="https://open.spotify.com/playlist/3foPurV4qm8jojJAGE9ze2?si=ea75995ff36f4c44" target="_blank">
     Click here to open Spotify
   </a>
+  
   <br>
 
   <p><strong>I am currently working on a project for a group of DJs in which it is private.</strong></p>
