@@ -1,14 +1,13 @@
 <div align="center" style="margin-top: 50px; margin-bottom: 50px;">
 
-**I recommend this song by keinemusik to start your morning, click on the image to listen to it. 😊**
+  <p><strong>I recommend this song by keinemusik to start your morning, click on the image to listen to it. 😊</strong></p>
 
-<a href="https://open.spotify.com/intl-es/track/70ofkwt6aIb4bPQ51OQMQO?si=5e20666bcf5e4047">
-    <img src="https://i.scdn.co/image/ab67616d00001e02e0cc562977affaa7477aab6b" alt="More Love - Keinemusik" width="300px">
-</a>
+  <a href="https://open.spotify.com/playlist/3foPurV4qm8jojJAGE9ze2?si=ea75995ff36f4c44" target="_blank">
+    <img src="https://i.imgur.com/TWbenxd.jpg" alt="Spotify Playlist" width="300">
+  </a>
 
-
-**💻 I am currently working on a project for a group of DJs in which it is private.**
-<br>
-**Any contact with me can be via Email or LinkedIn**
+  <p><strong>💻 I am currently working on a project for a group of DJs in which it is private.</strong></p>
+  <p><strong>Any contact with me can be via Email or LinkedIn</strong></p>
 
 </div>
+
