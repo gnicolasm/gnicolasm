@@ -10,4 +10,5 @@
 
   <p><strong>I am currently working on a project for a group of DJs in which it is private.</strong></p>
   <p><strong>Any contact with me can be via Email or LinkedIn</strong></p>
+  <p><strong>gnicolasworkemail@gmail.com</strong></p>
 </div>
