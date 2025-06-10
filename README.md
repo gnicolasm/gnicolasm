@@ -1,13 +1,5 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F2F2F2&center=true&vCenter=true&multiline=true&width=435&lines=Siempre+haciendo+cosas;Y+rompiendo+otras+de+paso" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gnicolasm&style=flat&color=7e3ff2" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Mood-Coffee☕️-7e3ff2?style=flat&labelColor=5b2eb2" />
-  <img src="https://img.shields.io/badge/Vibes-Chill🌀-0099ff?style=flat&labelColor=007acc" />
-  <img src="https://img.shields.io/badge/Style-Minimal🧼-25c2a0?style=flat&labelColor=159e84" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=F2F2F2&center=true&vCenter=true&multiline=true&width=1220&lines=Siempre+haciendo+cosas+y+rompiendo+otras+de+paso" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -18,6 +10,17 @@
 
 <br/>
 
+<!-- 🎯 Badges personalizados con estilo limpio -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20views-🔮%20magia-purple?style=for-the-badge&color=7e3ff2&labelColor=5b2eb2" />
+  <img src="https://img.shields.io/badge/Mood-Coffee☕️-goldenrod?style=for-the-badge&color=FFD580&labelColor=D4A857" />
+  <img src="https://img.shields.io/badge/Vibes-Chill🌀-00bfff?style=for-the-badge&color=4aa9ff&labelColor=007acc" />
+  <img src="https://img.shields.io/badge/Style-Minimal🧼-25c2a0?style=for-the-badge&color=25c2a0&labelColor=159e84" />
+</p>
+
+<br/>
+
+<!-- 🐍 Snake animation -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gnicolasm/gnicolasm/output/github-contribution-grid-snake-dark.svg" />
@@ -28,6 +31,7 @@
 
 <br/>
 
+<!-- 🌊 Footer visual -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
