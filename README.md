@@ -1,4 +1,4 @@
-🐍 <b>Contribution Snake</b>
+🐍 <b>La serpientita :)</b>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gnicolasm/gnicolasm/output/github-contribution-grid-snake-dark.svg" />
