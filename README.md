@@ -1,3 +1,7 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnicolasm&layout=compact&theme=dark)
+
+
+
 🐍 <b>La snake :)</b>
 
 <picture>
